@@ -1,0 +1,115 @@
+{{ define "content" }}
+<main>
+  {{ partial "main.html" . }}
+</main>
+{{ end }}
+
+{{ define "post" }}
+{{ $yaml := printf "---\ntitle: %s\nauthor: %s\ndate: %s\n" .Title .Params.author (.Date.Format "2006-01-02") }}
+
+{{ with .Params.tags }}
+  {{ $yaml = printf "%stags:\n" $yaml }}
+  {{ range . }}
+    {{ $yaml = printf "%s  - %s\n" $yaml . }}
+  {{ end }}
+{{ end }}
+
+{{ $yaml = printf "%s---" $yaml }}
+
+<div class="gist-file">
+  <div class="gist-header">
+    {{ .File.BaseFileName }}.md
+  </div>
+
+  <div class="gist-code">
+    {{ highlight $yaml "yaml" "" }}
+  </div>
+</div>
+<div class="gist-table">
+
+  <div class="gist-row">
+    <div class="gist-key">author</div>
+    <div class="gist-value">{{ .Params.author }}</div>
+  </div>
+
+  <div class="gist-row">
+    <div class="gist-key">title</div>
+    <div class="gist-value">{{ .Title }}</div>
+  </div>
+
+  <div class="gist-row">
+    <div class="gist-key">category</div>
+    <div class="gist-value">
+      {{ range .Params.category }}
+        <span class="badge">{{ . }}</span>
+      {{ end }}
+    </div>
+  </div>
+
+  <div class="gist-row">
+    <div class="gist-key">description</div>
+    <div class="gist-value">
+      {{ range .Params.description }}
+        <span class="badge">{{ . }}</span>
+      {{ end }}
+    </div>
+  </div>
+
+  <div class="gist-row">
+    <div class="gist-key">date</div>
+    <div class="gist-value">{{ .Date.Format "2006-01-02" }}</div>
+  </div>
+
+  <div class="gist-row">
+    <div class="gist-key">tags</div>
+    <div class="gist-value">
+      {{ range .Params.tags }}
+        <span class="badge">{{ . }}</span>
+      {{ end }}
+    </div>
+  </div>
+
+  <div class="gist-row">
+    <div class="gist-key">keywords</div>
+    <div class="gist-value">
+      {{ range .Params.keywords }}
+        <span class="badge">{{ . }}</span>
+      {{ end }}
+    </div>
+  </div>
+
+  <div class="gist-row">
+    <div class="gist-key">maker</div>
+    <div class="gist-value">
+      {{ range .Params.maker }}
+        <span class="badge">{{ . }}</span>
+      {{ end }}
+    </div>
+  </div>
+
+  <div class="gist-row">
+    <div class="gist-key">actress</div>
+    <div class="gist-value">
+      {{ range .Params.actress }}
+        <span class="badge">{{ . }}</span>
+      {{ end }}
+    </div>
+  </div>
+
+  <div class="gist-row">
+    <div class="gist-key">url</div>
+    <div class="gist-value">
+      <a href="{{ index .Params.url 0 }}" target="_blank">
+        {{ index .Params.url 0 }}
+      </a>
+    </div>
+  </div>
+
+</div>
+
+<!-- CONTENT -->
+<div class="markdown-body mt-3">
+  {{ .Content }}
+</div>
+
+{{ end }}

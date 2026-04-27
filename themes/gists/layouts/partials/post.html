@@ -1,0 +1,86 @@
+{{ define "post" }}
+<div class="d-flex flex-column border rounded mt-4 mt-md-0">
+
+  <!-- Header -->
+  <div class="border-bottom bg-light markdown-sticky-top">
+    <div class="d-flex flex-row align-items-center px-2 py-1">
+
+      <!-- TOC -->
+      <div class="btn-group" role="group">
+        <button type="button" class="btn" data-bs-toggle="dropdown">
+          ☰
+        </button>
+        <ul class="dropdown-menu" id="toc-list">
+          <li><h6 class="dropdown-header">Table of Content</h6></li>
+        </ul>
+      </div>
+
+      <!-- Date -->
+      <div class="flex-fill text-secondary fs-7">
+        <relative-time datetime="{{ .PublishDate.Format "2006-01-02T15:04:05Z07:00" }}"></relative-time>
+      </div>
+
+      <!-- Tags -->
+      <div class="pe-2 d-none d-md-block">
+        {{ range .Params.tags }}
+          <a class="badge text-bg-secondary bg-opacity-25 text-dark"
+             href="{{ "/tags/" | relURL }}{{ . | urlize }}">
+             {{ . }}
+          </a>
+        {{ end }}
+      </div>
+
+    </div>
+  </div>
+
+  <!-- Content -->
+  <div class="pt-4 px-3 pb-4">
+    <article class="markdown-body container-lg">
+
+      <!-- Title -->
+      <h1 class="mb-3">{{ .Title }}</h1>
+
+      <!-- Description -->
+      {{ with .Params.description }}
+        <p class="text-muted">{{ index . 0 }}</p>
+      {{ end }}
+
+      <hr>
+<!-- FRONTMATTER VIEW -->
+<pre class="bg-light p-3 rounded small"><code>---
+{{ with .Params.author }}author: {{ . }}
+{{ end }}title: {{ .Title }}
+url: {{ .RelPermalink }}
+
+{{ with .Params.category }}category: [{{ delimit . ", " }}]
+{{ end }}{{ with .Params.description }}description: [{{ delimit . ", " }}]
+{{ end }}date: {{ .Date.Format "2006-01-02" }}
+
+{{ with .Params.tags }}tags: [{{ delimit . ", " }}]
+{{ end }}{{ with .Params.keywords }}keywords: [{{ delimit . ", " }}]
+{{ end }}{{ with .Params.maker }}maker: [{{ delimit . ", " }}]
+{{ end }}{{ with .Params.actress }}actress: [{{ delimit . ", " }}]
+{{ end }}---
+</code></pre>
+        
+        
+        <!-- MAIN CONTENT (INI YANG PENTING) -->
+      {{ .Content }}
+
+      <hr>
+
+      <!-- Meta tambahan -->
+      <div class="mt-3 small text-secondary">
+        {{ with .Params.maker }}
+          <div><strong>Maker:</strong> {{ index . 0 }}</div>
+        {{ end }}
+        {{ with .Params.actress }}
+          <div><strong>Actress:</strong> {{ index . 0 }}</div>
+        {{ end }}
+      </div>
+
+    </article>
+  </div>
+
+</div>
+{{ end }}
