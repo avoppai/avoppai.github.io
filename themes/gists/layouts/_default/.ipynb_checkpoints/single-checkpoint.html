@@ -5,7 +5,20 @@
 {{ end }}
 
 {{ define "post" }}
+{{ $yaml := printf "---\ntitle: %s\nauthor: %s\ndate: %s\n" .Title .Params.author (.Date.Format "2006-01-02") }}
 
+
+{{ $yaml = printf "%s---" $yaml }}
+
+<div class="gist-file">
+  <div class="gist-header">
+    {{ .File.BaseFileName }}.md
+  </div>
+
+  <div class="gist-code">
+    {{ highlight $yaml "yaml" "" }}
+  </div>
+</div>
 <div class="gist-table">
 
   <div class="gist-row">

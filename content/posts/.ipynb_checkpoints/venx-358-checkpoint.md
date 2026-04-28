@@ -12,14 +12,9 @@ url: [ https://j91.asia/v/venx-358]
 ---
 
 <p align="center">
-  <a href="https://j91.asia/toplay/v/venx-358">
+  <a href="https://oppaiav.com/toplay/v/venx-358">
     <img src="https://images.prismic.io/ebayevo/ZwjFc4F3NbkBXO4Y_video-player_I1410-4911-4786-15677.png" width="800">
   </a>
 </p>
 
 ---
-
-<p align="right">
-  PREV: <a href="https://gist.github.com/ddr91s/94b490e602b5fd42895c005b8443d413">https://gist.github.com/ddr91s/94b490e602b5fd42895c005b8443d413</a>
-</p>
-

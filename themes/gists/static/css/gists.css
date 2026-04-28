@@ -303,3 +303,7 @@ body {
   background: #0d1117 !important;
   padding: 12px;
 }
+.markdown-sticky-top {
+  display: none !important;
+}
+

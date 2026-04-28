@@ -64,5 +64,5 @@ function getToc() {
 
 (() => {
   setRelativeTime();
-  // getToc(); // dimatiin
+  getToc();
 })();

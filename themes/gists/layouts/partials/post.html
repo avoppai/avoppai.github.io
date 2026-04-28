@@ -5,16 +5,6 @@
   <div class="border-bottom bg-light markdown-sticky-top">
     <div class="d-flex flex-row align-items-center px-2 py-1">
 
-      <!-- TOC -->
-      <div class="btn-group" role="group">
-        <button type="button" class="btn" data-bs-toggle="dropdown">
-          ☰
-        </button>
-        <ul class="dropdown-menu" id="toc-list">
-          <li><h6 class="dropdown-header">Table of Content</h6></li>
-        </ul>
-      </div>
-
       <!-- Date -->
       <div class="flex-fill text-secondary fs-7">
         <relative-time datetime="{{ .PublishDate.Format "2006-01-02T15:04:05Z07:00" }}"></relative-time>
@@ -66,18 +56,6 @@ url: {{ .RelPermalink }}
         
         <!-- MAIN CONTENT (INI YANG PENTING) -->
       {{ .Content }}
-
-      <hr>
-
-      <!-- Meta tambahan -->
-      <div class="mt-3 small text-secondary">
-        {{ with .Params.maker }}
-          <div><strong>Maker:</strong> {{ index . 0 }}</div>
-        {{ end }}
-        {{ with .Params.actress }}
-          <div><strong>Actress:</strong> {{ index . 0 }}</div>
-        {{ end }}
-      </div>
 
     </article>
   </div>

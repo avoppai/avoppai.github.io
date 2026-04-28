@@ -7,12 +7,6 @@
 {{ define "post" }}
 {{ $yaml := printf "---\ntitle: %s\nauthor: %s\ndate: %s\n" .Title .Params.author (.Date.Format "2006-01-02") }}
 
-{{ with .Params.tags }}
-  {{ $yaml = printf "%stags:\n" $yaml }}
-  {{ range . }}
-    {{ $yaml = printf "%s  - %s\n" $yaml . }}
-  {{ end }}
-{{ end }}
 
 {{ $yaml = printf "%s---" $yaml }}
 

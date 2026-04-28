@@ -282,3 +282,43 @@ body {
   background: #0d1117;
   color: #c9d1d9;
 }
+.gist-file {
+  border: 1px solid #30363d;
+  border-radius: 6px;
+  overflow: hidden;
+  margin-bottom: 20px;
+}
+
+.gist-header {
+  background: #161b22;
+  padding: 8px 12px;
+  font-size: 13px;
+  font-weight: 600;
+  color: #c9d1d9;
+  border-bottom: 1px solid #30363d;
+}
+
+.gist-code pre {
+  margin: 0;
+  background: #0d1117 !important;
+  padding: 12px;
+}
+.markdown-sticky-top {
+  display: none !important;
+}
+
+.hero {
+  background:#000;
+  color:#fff;
+}
+
+.card img {
+  width:100%;
+  aspect-ratio:3/4;
+  object-fit:cover;
+}
+
+.card:hover {
+  transform:scale(1.03);
+  transition:.2s;
+}
