@@ -1,6 +1,6 @@
 baseURL = 'https://avoppai.github.io'
 languageCode = 'en-us'
-title = 'OppaiAV'
+title = 'My New Hugo Site'
 theme = "gists"
 
 [markup]

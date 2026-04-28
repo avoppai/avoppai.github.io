@@ -1,0 +1,25 @@
+{{ printf "<?xml version=\"1.0\" encoding=\"utf-8\"?>" | safeHTML }}
+<rss version="2.0">
+  <channel>
+
+    <title>{{ .Site.Title | plainify }}</title>
+    <link>{{ .Site.BaseURL }}</link>
+    <description>Latest streaming updates</description>
+
+    {{ range first 100 (where .Site.RegularPages "Section" "posts") }}
+    <item>
+      <title>{{ .Title | plainify }}</title>
+
+      <link>{{ .Permalink }}</link>
+      <guid isPermaLink="true">{{ .Permalink }}</guid>
+
+      <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" }}</pubDate>
+
+<description>
+  Streaming {{ .Title | plainify | truncate 120 }} in full HD, fast and no buffering.
+</description>
+    </item>
+    {{ end }}
+
+  </channel>
+</rss>
