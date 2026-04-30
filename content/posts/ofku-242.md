@@ -19,8 +19,9 @@ url: [ https://j91.asia/v/ofku-242]
 
 ---
 
+---
 
 <p align="right">
-  PREV: <a href="/posts/mucd-352/">/posts/mucd-352/</a>
+  PREV: <a href="/posts/mucd-352/">/posts/mucd-352/</a><br>
+  NEXT: <a href="/posts/rebd-1012/">/posts/rebd-1012/</a>
 </p>
-

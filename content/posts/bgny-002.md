@@ -19,8 +19,9 @@ url: [ https://j91.asia/v/bgny-002]
 
 ---
 
+---
 
 <p align="right">
-  PREV: <a href="/posts/agmx-258/">/posts/agmx-258/</a>
+  PREV: <a href="/posts/agmx-258/">/posts/agmx-258/</a><br>
+  NEXT: <a href="/posts/btha-111/">/posts/btha-111/</a>
 </p>
-

@@ -19,8 +19,9 @@ url: [ https://j91.asia/v/kagp-392]
 
 ---
 
+---
 
 <p align="right">
-  PREV: <a href="/posts/jyma-103/">/posts/jyma-103/</a>
+  PREV: <a href="/posts/jyma-103/">/posts/jyma-103/</a><br>
+  NEXT: <a href="/posts/mbdd-2168/">/posts/mbdd-2168/</a>
 </p>
-

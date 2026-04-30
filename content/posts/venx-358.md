@@ -19,9 +19,9 @@ url: [ https://j91.asia/v/venx-358]
 
 ---
 
+---
 
 <p align="right">
-  PREV: <a href="/posts/wo-025/">/posts/wo-025/</a>
+  PREV: <a href="/posts/sbn-003/">/posts/sbn-003/</a><br>
+  NEXT: <a href="/posts/wo-025/">/posts/wo-025/</a>
 </p>
-
-

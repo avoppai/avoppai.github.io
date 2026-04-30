@@ -19,8 +19,9 @@ url: [ https://j91.asia/v/dldss-487]
 
 ---
 
+---
 
 <p align="right">
-  PREV: <a href="/posts/c-2967/">/posts/c-2967/</a>
+  PREV: <a href="/posts/c-2967/">/posts/c-2967/</a><br>
+  NEXT: <a href="/posts/embm-051/">/posts/embm-051/</a>
 </p>
-

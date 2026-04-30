@@ -19,8 +19,9 @@ url: [ https://j91.asia/v/btha-111]
 
 ---
 
+---
 
 <p align="right">
-  PREV: <a href="/posts/bgny-002/">/posts/bgny-002/</a>
+  PREV: <a href="/posts/bgny-002/">/posts/bgny-002/</a><br>
+  NEXT: <a href="/posts/c-2966/">/posts/c-2966/</a>
 </p>
-

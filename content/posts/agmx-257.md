@@ -19,8 +19,9 @@ url: [ https://j91.asia/v/agmx-257]
 
 ---
 
+---
 
 <p align="right">
-  PREV: <a href="/posts/agmx-256/">/posts/agmx-256/</a>
+  PREV: <a href="/posts/agmx-256/">/posts/agmx-256/</a><br>
+  NEXT: <a href="/posts/agmx-258/">/posts/agmx-258/</a>
 </p>
-
