@@ -199,7 +199,9 @@ path { fill: var(--bs-tertiary-color) }
 .markdown-body table tr:nth-child(2n) {
     background-color: var(--color-bg-tertiary)
 }
-
+.post-title {
+    font-size: 1.1rem;
+}
 .markdown-body table img {
     background-color: initial
 }
