@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/goju-311]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/goju-310/">PREV</a></div>
   <div><a href="/posts/goju-314/">NEXT</a> →</div>

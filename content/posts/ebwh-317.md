@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/ebwh-317]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/ebwh-315/">PREV</a></div>
   <div><a href="/posts/ebwh-318/">NEXT</a> →</div>

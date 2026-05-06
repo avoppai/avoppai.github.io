@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/dandya-019]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/dandya-018/">PREV</a></div>
   <div><a href="/posts/dandya-020/">NEXT</a> →</div>

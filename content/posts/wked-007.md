@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/wked-007]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/waaa-647/">PREV</a></div>
   <div><a href="/posts/wo-024/">NEXT</a> →</div>

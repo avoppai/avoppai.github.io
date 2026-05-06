@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/pais-083]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/pais-082/">PREV</a></div>
   <div><a href="/posts/pako-098/">NEXT</a> →</div>

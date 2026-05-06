@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/fays-012]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/fays-010/">PREV</a></div>
   <div><a href="/posts/fbos-014/">NEXT</a> →</div>

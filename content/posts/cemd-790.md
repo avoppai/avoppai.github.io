@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/cemd-790]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/cemd-789/">PREV</a></div>
   <div><a href="/posts/cemd-791/">NEXT</a> →</div>

@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/juta-186]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/jura-187/">PREV</a></div>
   <div><a href="/posts/juta-187/">NEXT</a> →</div>

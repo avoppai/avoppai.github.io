@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/npjs-249]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/npjs-247/">PREV</a></div>
   <div><a href="/posts/npjs-253/">NEXT</a> →</div>

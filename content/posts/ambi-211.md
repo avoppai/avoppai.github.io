@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/ambi-211]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/alog-028/">PREV</a></div>
   <div><a href="/posts/ambi-212/">NEXT</a> →</div>

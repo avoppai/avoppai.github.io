@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/pfas-042]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/pfas-041/">PREV</a></div>
   <div><a href="/posts/pfas-043/">NEXT</a> →</div>

@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/moil-004]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/moil-003/">PREV</a></div>
   <div><a href="/posts/mond-302/">NEXT</a> →</div>

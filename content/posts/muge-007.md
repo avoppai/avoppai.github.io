@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/muge-007]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/mufr-007/">PREV</a></div>
   <div><a href="/posts/muka-003/">NEXT</a> →</div>

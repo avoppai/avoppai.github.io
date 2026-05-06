@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/jksr-727]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/jksr-725/">PREV</a></div>
   <div><a href="/posts/jksr-728/">NEXT</a> →</div>

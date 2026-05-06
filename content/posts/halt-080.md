@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/halt-080]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/halt-079/">PREV</a></div>
   <div><a href="/posts/halt-081/">NEXT</a> →</div>

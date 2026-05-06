@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/kagp-382]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/kagn-025/">PREV</a></div>
   <div><a href="/posts/kagp-385/">NEXT</a> →</div>

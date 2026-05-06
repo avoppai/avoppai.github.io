@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/nekk-008]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/ncyf-051/">PREV</a></div>
   <div><a href="/posts/neo-844/">NEXT</a> →</div>

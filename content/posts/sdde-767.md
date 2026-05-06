@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/sdde-767]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/sdde-765/">PREV</a></div>
   <div><a href="/posts/sdhs-00066/">NEXT</a> →</div>

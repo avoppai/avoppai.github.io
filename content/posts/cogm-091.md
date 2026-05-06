@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/cogm-091]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/cmv-205/">PREV</a></div>
   <div><a href="/posts/cogm-094/">NEXT</a> →</div>

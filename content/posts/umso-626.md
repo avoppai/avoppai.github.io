@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/umso-626]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/umd-999/">PREV</a></div>
   <div><a href="/posts/ure-118/">NEXT</a> →</div>

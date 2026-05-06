@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/aarm-336]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/aarm-335/">PREV</a></div>
   <div><a href="/posts/aarm-337/">NEXT</a> →</div>

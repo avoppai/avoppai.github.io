@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/piyo-233]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/piyo-232/">PREV</a></div>
   <div><a href="/posts/pjam-048/">NEXT</a> →</div>

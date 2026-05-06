@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/bacj-174]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/bacj-173/">PREV</a></div>
   <div><a href="/posts/bacj-176/">NEXT</a> →</div>

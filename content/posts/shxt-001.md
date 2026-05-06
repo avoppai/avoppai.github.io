@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/shxt-001]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/shmo-308/">PREV</a></div>
   <div><a href="/posts/sigl-019/">NEXT</a> →</div>

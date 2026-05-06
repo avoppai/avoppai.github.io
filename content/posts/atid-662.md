@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/atid-662]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/atid-661/">PREV</a></div>
   <div><a href="/posts/atid-663/">NEXT</a> →</div>

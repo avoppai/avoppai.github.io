@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/dldss-500]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/dldss-491/">PREV</a></div>
   <div><a href="/posts/dldss-501/">NEXT</a> →</div>

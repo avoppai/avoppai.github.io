@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/cjod-499]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/cjod-497/">PREV</a></div>
   <div><a href="/posts/cjod-500/">NEXT</a> →</div>

@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/hnds-082]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/hnbr-010/">PREV</a></div>
   <div><a href="/posts/hnds-083/">NEXT</a> →</div>

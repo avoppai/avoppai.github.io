@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/mizd-519]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/mizd-513/">PREV</a></div>
   <div><a href="/posts/mizd-520/">NEXT</a> →</div>

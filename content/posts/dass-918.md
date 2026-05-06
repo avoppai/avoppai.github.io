@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/dass-918]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/dass-917/">PREV</a></div>
   <div><a href="/posts/dass-919/">NEXT</a> →</div>

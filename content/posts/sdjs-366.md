@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/sdjs-366]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/sdjs-364/">PREV</a></div>
   <div><a href="/posts/sdjs-367/">NEXT</a> →</div>

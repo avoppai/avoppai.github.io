@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/drpt-109]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/drpt-108/">PREV</a></div>
   <div><a href="/posts/dsdp-037/">NEXT</a> →</div>

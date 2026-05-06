@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/milk-281]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/milk-280/">PREV</a></div>
   <div><a href="/posts/milk-282/">NEXT</a> →</div>

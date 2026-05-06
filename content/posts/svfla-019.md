@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/svfla-019]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/svfla-018/">PREV</a></div>
   <div><a href="/posts/svgal-027/">NEXT</a> →</div>

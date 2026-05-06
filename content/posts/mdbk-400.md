@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/mdbk-400]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/mbrbi-012/">PREV</a></div>
   <div><a href="/posts/mdbk-401/">NEXT</a> →</div>

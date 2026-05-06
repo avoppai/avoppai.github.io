@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/fnew-021]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/fnew-020/">PREV</a></div>
   <div><a href="/posts/fnew-022/">NEXT</a> →</div>

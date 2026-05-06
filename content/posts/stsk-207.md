@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/stsk-207]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/stsk-206/">PREV</a></div>
   <div><a href="/posts/stsk-208/">NEXT</a> →</div>

@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/mopp-120]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/mopp-119/">PREV</a></div>
   <div><a href="/posts/mosj-0013/">NEXT</a> →</div>

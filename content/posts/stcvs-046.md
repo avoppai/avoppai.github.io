@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/stcvs-046]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/stcv-596/">PREV</a></div>
   <div><a href="/posts/stcvs-047/">NEXT</a> →</div>

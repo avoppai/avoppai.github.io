@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/chuc-164]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/chrv-219/">PREV</a></div>
   <div><a href="/posts/chuc-165/">NEXT</a> →</div>

@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/stol-133]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/stcvs-047/">PREV</a></div>
   <div><a href="/posts/stol-139/">NEXT</a> →</div>

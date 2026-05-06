@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/jjpp-199]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/jjex-006/">PREV</a></div>
   <div><a href="/posts/jksr-725/">NEXT</a> →</div>

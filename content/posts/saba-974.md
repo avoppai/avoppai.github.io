@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/saba-974]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/saba-972/">PREV</a></div>
   <div><a href="/posts/saba-975/">NEXT</a> →</div>

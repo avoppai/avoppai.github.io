@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/jufe-610]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/jufe-609/">PREV</a></div>
   <div><a href="/posts/jufe-611/">NEXT</a> →</div>

@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/iesp-758]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/ienf-448/">PREV</a></div>
   <div><a href="/posts/imo-035/">NEXT</a> →</div>

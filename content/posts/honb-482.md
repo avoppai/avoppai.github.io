@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/honb-482]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/honb-481/">PREV</a></div>
   <div><a href="/posts/hone-296/">NEXT</a> →</div>

@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/pred-832]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/pred-830/">PREV</a></div>
   <div><a href="/posts/pred-833/">NEXT</a> →</div>

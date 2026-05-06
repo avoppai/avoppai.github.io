@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/mifd-698]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/mida-641/">PREV</a></div>
   <div><a href="/posts/mifd-699/">NEXT</a> →</div>

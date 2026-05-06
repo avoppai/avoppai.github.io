@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/moor-058]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/moor-057/">PREV</a></div>
   <div><a href="/posts/moor-061/">NEXT</a> →</div>

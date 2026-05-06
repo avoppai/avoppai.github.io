@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/docd-082]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/docd-081/">PREV</a></div>
   <div><a href="/posts/docd-084/">NEXT</a> →</div>

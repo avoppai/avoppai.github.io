@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/bbtu-111]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/bbtu-110/">PREV</a></div>
   <div><a href="/posts/bbtu-112/">NEXT</a> →</div>

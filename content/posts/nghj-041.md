@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/nghj-041]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/neos-017/">PREV</a></div>
   <div><a href="/posts/nghj-042/">NEXT</a> →</div>

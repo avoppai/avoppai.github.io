@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/rctd-716]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/rctd-715/">PREV</a></div>
   <div><a href="/posts/rctd-717/">NEXT</a> →</div>

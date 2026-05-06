@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/ymdd-488]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/ymdd-487/">PREV</a></div>
   <div><a href="/posts/ymdd-489/">NEXT</a> →</div>

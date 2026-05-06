@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/hjmo-710]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/hjmo-708/">PREV</a></div>
   <div><a href="/posts/hjmo-711/">NEXT</a> →</div>

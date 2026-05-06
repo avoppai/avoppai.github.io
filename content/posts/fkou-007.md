@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/fkou-007]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/fjin-140/">PREV</a></div>
   <div><a href="/posts/fkou-008/">NEXT</a> →</div>

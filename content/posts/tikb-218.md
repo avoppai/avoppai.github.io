@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/tikb-218]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/tikb-217/">PREV</a></div>
   <div><a href="/posts/tikb-219/">NEXT</a> →</div>

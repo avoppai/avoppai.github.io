@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/vagu-290]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/vagu-289/">PREV</a></div>
   <div><a href="/posts/vagu-291/">NEXT</a> →</div>

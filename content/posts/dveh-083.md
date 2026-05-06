@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/dveh-083]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/dveh-082/">PREV</a></div>
   <div><a href="/posts/dveh-084/">NEXT</a> →</div>

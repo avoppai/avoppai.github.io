@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/cjob-199]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/chuc-173/">PREV</a></div>
   <div><a href="/posts/cjob-202/">NEXT</a> →</div>

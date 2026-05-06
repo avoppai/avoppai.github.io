@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/akdl-363]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/aiav-048/">PREV</a></div>
   <div><a href="/posts/akdl-364/">NEXT</a> →</div>

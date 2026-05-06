@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/gdjp-006]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/gbsa-096/">PREV</a></div>
   <div><a href="/posts/gebb-033/">NEXT</a> →</div>

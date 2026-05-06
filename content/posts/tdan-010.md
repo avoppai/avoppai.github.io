@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/tdan-010]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/tchb-058/">PREV</a></div>
   <div><a href="/posts/tend-029/">NEXT</a> →</div>

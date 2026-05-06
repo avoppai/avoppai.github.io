@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/mdhr-002]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/mdbk-413/">PREV</a></div>
   <div><a href="/posts/mdon-089/">NEXT</a> →</div>

@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/fofi-001]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/fod-003/">PREV</a></div>
   <div><a href="/posts/fone-169/">NEXT</a> →</div>

@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/smok-028]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/smkd-008/">PREV</a></div>
   <div><a href="/posts/smok-029/">NEXT</a> →</div>

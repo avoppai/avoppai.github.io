@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/yoch-028]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/ymds-277/">PREV</a></div>
   <div><a href="/posts/yoch-030/">NEXT</a> →</div>

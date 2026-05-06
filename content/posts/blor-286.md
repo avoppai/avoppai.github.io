@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/blor-286]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/blk-696/">PREV</a></div>
   <div><a href="/posts/blor-287/">NEXT</a> →</div>

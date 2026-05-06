@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/svmgm-047]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/svmgm-046/">PREV</a></div>
   <div><a href="/posts/svmgm-048/">NEXT</a> →</div>

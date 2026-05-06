@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/ksbj-428]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/ksbj-426/">PREV</a></div>
   <div><a href="/posts/ktb-107/">NEXT</a> →</div>

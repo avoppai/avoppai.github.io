@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/aukg-643]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/aukg-642/">PREV</a></div>
   <div><a href="/posts/aukg-644/">NEXT</a> →</div>

@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/apak-321]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/antw-002/">PREV</a></div>
   <div><a href="/posts/apak-322/">NEXT</a> →</div>

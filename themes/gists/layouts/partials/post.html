@@ -28,13 +28,13 @@
     <article class="markdown-body container-lg">
 
       <!-- Title -->
-      <h1 class="mb-3">{{ .Title }}</h1>
+      <h2 class="mb-3">{{ .Title }}</h2>
 
       <!-- Description -->
       {{ with .Params.description }}
         <p class="text-muted">{{ index . 0 }}</p>
       {{ end }}
-
+<hr>
 <!-- FRONTMATTER VIEW -->
 <pre class="bg-light p-3 rounded small"><code>---
 {{ with .Params.author }}author: {{ . }}
@@ -57,7 +57,7 @@ url: {{ .RelPermalink }}
       {{ .Content }}
 
     </article>
-      <br><br><br><br><br>
+      <br><br><br>
   </div>
 
 </div>

@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/totk-016]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/totk-015/">PREV</a></div>
   <div><a href="/posts/totk-017/">NEXT</a> →</div>

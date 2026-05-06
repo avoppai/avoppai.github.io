@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/xvsr-864]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/xvsr-863/">PREV</a></div>
   <div><a href="/posts/xvsr-865/">NEXT</a> →</div>

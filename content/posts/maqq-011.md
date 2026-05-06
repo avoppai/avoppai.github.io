@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/maqq-011]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/manx-030/">PREV</a></div>
   <div><a href="/posts/maqq-012/">NEXT</a> →</div>

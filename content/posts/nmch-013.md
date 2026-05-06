@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/nmch-013]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/nmch-012/">PREV</a></div>
   <div><a href="/posts/nmch-014/">NEXT</a> →</div>

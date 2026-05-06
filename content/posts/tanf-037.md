@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/tanf-037]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/t-38061/">PREV</a></div>
   <div><a href="/posts/tanp-047/">NEXT</a> →</div>

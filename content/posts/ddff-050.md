@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/ddff-050]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/ddff-049/">PREV</a></div>
   <div><a href="/posts/ddk-237/">NEXT</a> →</div>

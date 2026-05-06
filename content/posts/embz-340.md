@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/embz-340]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/embz-339/">PREV</a></div>
   <div><a href="/posts/embz-341/">NEXT</a> →</div>

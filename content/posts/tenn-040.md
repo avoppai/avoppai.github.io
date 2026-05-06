@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/tenn-040]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/tenh-21/">PREV</a></div>
   <div><a href="/posts/tenn-041/">NEXT</a> →</div>

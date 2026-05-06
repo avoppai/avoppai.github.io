@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/snos-153]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/snos-152/">PREV</a></div>
   <div><a href="/posts/snos-154/">NEXT</a> →</div>

@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/onex-113]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/olm-312e/">PREV</a></div>
   <div><a href="/posts/onex-114/">NEXT</a> →</div>

@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/hery-168]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/hery-167/">PREV</a></div>
   <div><a href="/posts/heyzo-3467/">NEXT</a> →</div>

@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/davk-115]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/davk-114/">PREV</a></div>
   <div><a href="/posts/daya-025/">NEXT</a> →</div>

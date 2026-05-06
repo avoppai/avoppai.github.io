@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/itsr-150]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/iro-63/">PREV</a></div>
   <div><a href="/posts/izm-032/">NEXT</a> →</div>

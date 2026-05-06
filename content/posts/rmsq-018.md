@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/rmsq-018]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/rmsq-017/">PREV</a></div>
   <div><a href="/posts/rna-008/">NEXT</a> →</div>

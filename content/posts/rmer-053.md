@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/rmer-053]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/rki-752/">PREV</a></div>
   <div><a href="/posts/rmsq-017/">NEXT</a> →</div>

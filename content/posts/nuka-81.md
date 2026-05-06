@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/nuka-81]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/nuka-80/">PREV</a></div>
   <div><a href="/posts/nuka-82/">NEXT</a> →</div>

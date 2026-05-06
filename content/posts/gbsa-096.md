@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/gbsa-096]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/gbb-018/">PREV</a></div>
   <div><a href="/posts/gdjp-006/">NEXT</a> →</div>

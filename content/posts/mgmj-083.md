@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/mgmj-083]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/mgmj-082/">PREV</a></div>
   <div><a href="/posts/mgmp-064/">NEXT</a> →</div>

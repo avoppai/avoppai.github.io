@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/tanp-053]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/tanp-050/">PREV</a></div>
   <div><a href="/posts/tcd-318/">NEXT</a> →</div>

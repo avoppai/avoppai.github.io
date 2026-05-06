@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/fcdc-182]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/fbos-015/">PREV</a></div>
   <div><a href="/posts/fem-024/">NEXT</a> →</div>

@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/nmsl-035]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/nmsl-034/">PREV</a></div>
   <div><a href="/posts/nmsl-036/">NEXT</a> →</div>

@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/jyma-098]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/juyu-002/">PREV</a></div>
   <div><a href="/posts/jyma-099/">NEXT</a> →</div>

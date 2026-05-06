@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/sitw-053]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/sir-033/">PREV</a></div>
   <div><a href="/posts/skmj-705/">NEXT</a> →</div>

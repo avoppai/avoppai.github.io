@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/aran-108]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/aran-106/">PREV</a></div>
   <div><a href="/posts/arso-26202/">NEXT</a> →</div>

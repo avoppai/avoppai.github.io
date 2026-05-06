@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/mimk-271]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/mimk-270/">PREV</a></div>
   <div><a href="/posts/mimk-273/">NEXT</a> →</div>

@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/dnjr-154]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/dnjr-153/">PREV</a></div>
   <div><a href="/posts/dnjr-155/">NEXT</a> →</div>

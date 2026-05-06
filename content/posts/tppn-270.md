@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/tppn-270]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/tppn-269/">PREV</a></div>
   <div><a href="/posts/trdds-019/">NEXT</a> →</div>

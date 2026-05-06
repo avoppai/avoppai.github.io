@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/skmj-717]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/skmj-716/">PREV</a></div>
   <div><a href="/posts/skmj-718/">NEXT</a> →</div>

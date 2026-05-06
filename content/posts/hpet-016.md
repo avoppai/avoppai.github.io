@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/hpet-016]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/hpet-014/">PREV</a></div>
   <div><a href="/posts/hr-012/">NEXT</a> →</div>

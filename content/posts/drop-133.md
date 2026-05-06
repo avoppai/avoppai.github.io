@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/drop-133]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/doks-675/">PREV</a></div>
   <div><a href="/posts/drop-134/">NEXT</a> →</div>

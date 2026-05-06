@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/fpre-208]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/fpre-206/">PREV</a></div>
   <div><a href="/posts/fpre-211/">NEXT</a> →</div>

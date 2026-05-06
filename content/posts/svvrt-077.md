@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/svvrt-077]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/svvrt-076/">PREV</a></div>
   <div><a href="/posts/sw-1032/">NEXT</a> →</div>

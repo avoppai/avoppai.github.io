@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/bhsp-033]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/bhsp-032/">PREV</a></div>
   <div><a href="/posts/bijn-281/">NEXT</a> →</div>

@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/awaw-014]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/awaw-013/">PREV</a></div>
   <div><a href="/posts/awaw-017/">NEXT</a> →</div>

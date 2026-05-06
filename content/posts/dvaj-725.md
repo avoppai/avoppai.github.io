@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/dvaj-725]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/dvaj-724/">PREV</a></div>
   <div><a href="/posts/dvaj-726/">NEXT</a> →</div>

@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/sdam-168]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/sdam-167/">PREV</a></div>
   <div><a href="/posts/sdam-169/">NEXT</a> →</div>

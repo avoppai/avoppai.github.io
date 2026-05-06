@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/mird-271]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/mird-269/">PREV</a></div>
   <div><a href="/posts/mird-272/">NEXT</a> →</div>

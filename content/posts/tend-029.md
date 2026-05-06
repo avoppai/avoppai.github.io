@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/tend-029]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/tdan-010/">PREV</a></div>
   <div><a href="/posts/tenh-21/">NEXT</a> →</div>

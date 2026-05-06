@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/start-514]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/start-513/">PREV</a></div>
   <div><a href="/posts/start-515/">NEXT</a> →</div>

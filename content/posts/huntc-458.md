@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/huntc-458]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/huntc-456/">PREV</a></div>
   <div><a href="/posts/huntc-459/">NEXT</a> →</div>

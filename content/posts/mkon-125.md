@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/mkon-125]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/mkon-124/">PREV</a></div>
   <div><a href="/posts/mkon-126/">NEXT</a> →</div>

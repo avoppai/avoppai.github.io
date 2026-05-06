@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/focs-295]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/focs-294/">PREV</a></div>
   <div><a href="/posts/focs-296/">NEXT</a> →</div>

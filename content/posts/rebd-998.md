@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/rebd-998]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/rebd-997/">PREV</a></div>
   <div><a href="/posts/rebd-999/">NEXT</a> →</div>

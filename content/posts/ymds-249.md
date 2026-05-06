@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/ymds-249]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/ymdd-490/">PREV</a></div>
   <div><a href="/posts/ymds-254/">NEXT</a> →</div>

@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/svcao-024]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/svbgr-004/">PREV</a></div>
   <div><a href="/posts/svcao-025/">NEXT</a> →</div>

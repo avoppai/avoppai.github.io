@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/hbad-724]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/hazu-034/">PREV</a></div>
   <div><a href="/posts/hbad-725/">NEXT</a> →</div>

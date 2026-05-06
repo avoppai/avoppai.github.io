@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/real-970]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/real-969/">PREV</a></div>
   <div><a href="/posts/real-971/">NEXT</a> →</div>

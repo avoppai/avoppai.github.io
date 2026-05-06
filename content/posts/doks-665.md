@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/doks-665]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/doks-664/">PREV</a></div>
   <div><a href="/posts/doks-666/">NEXT</a> →</div>

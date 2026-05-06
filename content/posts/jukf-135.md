@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/jukf-135]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/jukf-132/">PREV</a></div>
   <div><a href="/posts/jur-057/">NEXT</a> →</div>

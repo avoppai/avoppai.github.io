@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/olm-292e]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/olm-280e/">PREV</a></div>
   <div><a href="/posts/olm-301e/">NEXT</a> →</div>

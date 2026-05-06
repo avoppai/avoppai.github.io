@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/qrda-210]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/pzd-042/">PREV</a></div>
   <div><a href="/posts/qrda-211/">NEXT</a> →</div>

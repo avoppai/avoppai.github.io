@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/ksat-103]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/knmb-123/">PREV</a></div>
   <div><a href="/posts/ksbj-410/">NEXT</a> →</div>

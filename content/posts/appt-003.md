@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/appt-003]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/apns-408/">PREV</a></div>
   <div><a href="/posts/aprg-001/">NEXT</a> →</div>

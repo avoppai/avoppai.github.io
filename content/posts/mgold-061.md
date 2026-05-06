@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/mgold-061]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/mgold-060/">PREV</a></div>
   <div><a href="/posts/mgtd-066/">NEXT</a> →</div>

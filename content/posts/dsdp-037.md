@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/dsdp-037]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/drpt-109/">PREV</a></div>
   <div><a href="/posts/dshm-004/">NEXT</a> →</div>

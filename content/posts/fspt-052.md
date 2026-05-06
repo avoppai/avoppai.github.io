@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/fspt-052]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/fspt-051/">PREV</a></div>
   <div><a href="/posts/fspt-054/">NEXT</a> →</div>

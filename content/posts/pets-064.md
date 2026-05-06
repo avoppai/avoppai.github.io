@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/pets-064]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/pets-063/">PREV</a></div>
   <div><a href="/posts/pets-065/">NEXT</a> →</div>

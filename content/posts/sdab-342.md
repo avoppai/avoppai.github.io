@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/sdab-342]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/sdab-333/">PREV</a></div>
   <div><a href="/posts/sdab-345/">NEXT</a> →</div>

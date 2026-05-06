@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/timd-029]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/timd-028/">PREV</a></div>
   <div><a href="/posts/timd-030/">NEXT</a> →</div>

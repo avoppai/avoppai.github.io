@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/uman-001]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/ufd-084/">PREV</a></div>
   <div><a href="/posts/uman-002/">NEXT</a> →</div>

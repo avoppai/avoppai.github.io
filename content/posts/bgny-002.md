@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/bgny-002]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/bgg-009/">PREV</a></div>
   <div><a href="/posts/bhsp-032/">NEXT</a> →</div>

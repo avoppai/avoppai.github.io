@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/fuga-64]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/fuga-63/">PREV</a></div>
   <div><a href="/posts/fway-083/">NEXT</a> →</div>

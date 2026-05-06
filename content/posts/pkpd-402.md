@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/pkpd-402]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/pkpd-401/">PREV</a></div>
   <div><a href="/posts/pkpd-403/">NEXT</a> →</div>

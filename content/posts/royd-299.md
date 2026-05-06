@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/royd-299]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/royd-298/">PREV</a></div>
   <div><a href="/posts/royd-300/">NEXT</a> →</div>

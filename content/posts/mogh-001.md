@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/mogh-001]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/mntl-006/">PREV</a></div>
   <div><a href="/posts/mogi-146/">NEXT</a> →</div>

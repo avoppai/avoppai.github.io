@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/yako-091]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/yako-090/">PREV</a></div>
   <div><a href="/posts/ydns-007/">NEXT</a> →</div>

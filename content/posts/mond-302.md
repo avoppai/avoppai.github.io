@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/mond-302]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/moil-004/">PREV</a></div>
   <div><a href="/posts/mond-303/">NEXT</a> →</div>

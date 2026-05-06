@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/hthd-238]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/hthd-236/">PREV</a></div>
   <div><a href="/posts/hthd-239/">NEXT</a> →</div>

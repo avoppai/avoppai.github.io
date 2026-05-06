@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/clot-038]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/clot-037/">PREV</a></div>
   <div><a href="/posts/club-895/">NEXT</a> →</div>

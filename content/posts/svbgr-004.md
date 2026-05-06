@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/svbgr-004]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/suji-306/">PREV</a></div>
   <div><a href="/posts/svcao-024/">NEXT</a> →</div>

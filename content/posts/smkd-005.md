@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/smkd-005]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/sln-014/">PREV</a></div>
   <div><a href="/posts/smkd-006/">NEXT</a> →</div>

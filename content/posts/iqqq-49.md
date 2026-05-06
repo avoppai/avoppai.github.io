@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/iqqq-49]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/ipzz-867/">PREV</a></div>
   <div><a href="/posts/iro-63/">NEXT</a> →</div>

@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/knmb-123]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/knmb-122/">PREV</a></div>
   <div><a href="/posts/ksat-103/">NEXT</a> →</div>

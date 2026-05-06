@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/kimr-003]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/kimr-002/">PREV</a></div>
   <div><a href="/posts/kir-076/">NEXT</a> →</div>

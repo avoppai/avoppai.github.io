@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/jera-021]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/jera-020/">PREV</a></div>
   <div><a href="/posts/jera-022/">NEXT</a> →</div>

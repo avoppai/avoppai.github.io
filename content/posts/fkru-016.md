@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/fkru-016]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/fkou-009/">PREV</a></div>
   <div><a href="/posts/flav-412/">NEXT</a> →</div>

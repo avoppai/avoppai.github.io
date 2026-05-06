@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/silk-194]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/sigl-019/">PREV</a></div>
   <div><a href="/posts/silk-2012/">NEXT</a> →</div>

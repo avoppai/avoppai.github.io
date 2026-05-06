@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/nact-098]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/nact-097/">PREV</a></div>
   <div><a href="/posts/nact-099/">NEXT</a> →</div>

@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/jura-183]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/jura-181/">PREV</a></div>
   <div><a href="/posts/jura-184/">NEXT</a> →</div>

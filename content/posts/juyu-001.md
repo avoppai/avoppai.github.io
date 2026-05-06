@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/juyu-001]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/juta-195/">PREV</a></div>
   <div><a href="/posts/juyu-002/">NEXT</a> →</div>

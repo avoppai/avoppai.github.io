@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/sdmm-230]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/sdmm-229/">PREV</a></div>
   <div><a href="/posts/sdmua-096/">NEXT</a> →</div>

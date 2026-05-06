@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/fbos-015]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/fbos-014/">PREV</a></div>
   <div><a href="/posts/fcdc-182/">NEXT</a> →</div>

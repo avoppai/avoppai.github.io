@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/mkck-410]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/mizd-527/">PREV</a></div>
   <div><a href="/posts/mkd-257/">NEXT</a> →</div>

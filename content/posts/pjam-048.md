@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/pjam-048]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/piyo-233/">PREV</a></div>
   <div><a href="/posts/pkpd-400/">NEXT</a> →</div>

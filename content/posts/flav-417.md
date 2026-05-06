@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/flav-417]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/flav-416/">PREV</a></div>
   <div><a href="/posts/flav-418/">NEXT</a> →</div>

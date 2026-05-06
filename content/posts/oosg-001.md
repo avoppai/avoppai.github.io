@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/oosg-001]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/onsg-105/">PREV</a></div>
   <div><a href="/posts/otin-022/">NEXT</a> →</div>

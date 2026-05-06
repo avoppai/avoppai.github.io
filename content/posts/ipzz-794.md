@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/ipzz-794]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/ipzz-793/">PREV</a></div>
   <div><a href="/posts/ipzz-795/">NEXT</a> →</div>

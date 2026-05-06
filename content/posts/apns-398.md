@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/apns-398]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/apns-397/">PREV</a></div>
   <div><a href="/posts/apns-399/">NEXT</a> →</div>

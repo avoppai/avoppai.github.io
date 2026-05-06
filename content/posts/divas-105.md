@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/divas-105]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/digi-256/">PREV</a></div>
   <div><a href="/posts/dldss-450/">NEXT</a> →</div>

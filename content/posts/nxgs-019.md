@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/nxgs-019]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/nwnk-001/">PREV</a></div>
   <div><a href="/posts/nykd-143/">NEXT</a> →</div>

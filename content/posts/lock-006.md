@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/lock-006]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/lock-003/">PREV</a></div>
   <div><a href="/posts/lock-007/">NEXT</a> →</div>

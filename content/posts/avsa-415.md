@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/avsa-415]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/aukg-649/">PREV</a></div>
   <div><a href="/posts/avsa-416/">NEXT</a> →</div>

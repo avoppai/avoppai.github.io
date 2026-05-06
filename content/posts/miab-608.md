@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/miab-608]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/miab-607/">PREV</a></div>
   <div><a href="/posts/miab-609/">NEXT</a> →</div>

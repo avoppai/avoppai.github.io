@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/hawa-368]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/halt-082/">PREV</a></div>
   <div><a href="/posts/hawa-370/">NEXT</a> →</div>

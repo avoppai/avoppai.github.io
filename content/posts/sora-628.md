@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/sora-628]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/sora-627/">PREV</a></div>
   <div><a href="/posts/sora-629/">NEXT</a> →</div>

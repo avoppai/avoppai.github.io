@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/basj-039]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/basj-037/">PREV</a></div>
   <div><a href="/posts/basj-040/">NEXT</a> →</div>

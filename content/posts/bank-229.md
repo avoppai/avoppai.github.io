@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/bank-229]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/bank-228/">PREV</a></div>
   <div><a href="/posts/bank-232/">NEXT</a> →</div>

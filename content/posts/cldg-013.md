@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/cldg-013]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/cjod-515/">PREV</a></div>
   <div><a href="/posts/clot-036/">NEXT</a> →</div>

@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/hrsm-131]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/hrsm-130/">PREV</a></div>
   <div><a href="/posts/hrsm-132/">NEXT</a> →</div>

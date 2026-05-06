@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/ubug-012]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/ubug-009/">PREV</a></div>
   <div><a href="/posts/ufd-082/">NEXT</a> →</div>

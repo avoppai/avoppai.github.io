@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/suji-302]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/suji-301/">PREV</a></div>
   <div><a href="/posts/suji-304/">NEXT</a> →</div>

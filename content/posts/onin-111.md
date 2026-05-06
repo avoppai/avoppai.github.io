@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/onin-111]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/onin-110/">PREV</a></div>
   <div><a href="/posts/onin-112/">NEXT</a> →</div>

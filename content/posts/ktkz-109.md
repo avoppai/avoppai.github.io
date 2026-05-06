@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/ktkz-109]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/ktkn-010/">PREV</a></div>
   <div><a href="/posts/ktra-766/">NEXT</a> →</div>

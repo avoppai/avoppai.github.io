@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/mukc-115]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/mukc-114/">PREV</a></div>
   <div><a href="/posts/mukc-116/">NEXT</a> →</div>

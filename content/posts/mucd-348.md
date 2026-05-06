@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/mucd-348]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/mtgd-001/">PREV</a></div>
   <div><a href="/posts/mucd-350/">NEXT</a> →</div>

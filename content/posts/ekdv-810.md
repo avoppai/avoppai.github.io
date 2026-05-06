@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/ekdv-810]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/ekdv-809/">PREV</a></div>
   <div><a href="/posts/ekdv-811/">NEXT</a> →</div>

@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/cead-724]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/cead-718/">PREV</a></div>
   <div><a href="/posts/cead-725/">NEXT</a> →</div>

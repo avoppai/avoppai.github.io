@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/sxma-020]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/sw-139/">PREV</a></div>
   <div><a href="/posts/sxma-021/">NEXT</a> →</div>

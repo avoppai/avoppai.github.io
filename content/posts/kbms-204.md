@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/kbms-204]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/kam-275/">PREV</a></div>
   <div><a href="/posts/kbr-034/">NEXT</a> →</div>

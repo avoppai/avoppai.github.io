@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/ncyf-049]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/nask-376/">PREV</a></div>
   <div><a href="/posts/ncyf-050/">NEXT</a> →</div>

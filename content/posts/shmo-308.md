@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/shmo-308]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/shind-110/">PREV</a></div>
   <div><a href="/posts/shxt-001/">NEXT</a> →</div>

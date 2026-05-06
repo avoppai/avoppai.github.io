@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/hale-072]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/gvh-842/">PREV</a></div>
   <div><a href="/posts/hale-073/">NEXT</a> →</div>

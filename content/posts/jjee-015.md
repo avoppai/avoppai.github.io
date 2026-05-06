@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/jjee-015]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/jjda-072/">PREV</a></div>
   <div><a href="/posts/jjee-016/">NEXT</a> →</div>

@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/nkkd-359]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/nine-120/">PREV</a></div>
   <div><a href="/posts/nkkd-360/">NEXT</a> →</div>

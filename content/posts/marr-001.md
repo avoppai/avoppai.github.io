@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/marr-001]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/maraa-223/">PREV</a></div>
   <div><a href="/posts/marr-003/">NEXT</a> →</div>

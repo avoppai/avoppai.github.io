@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/dfdm-069]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/dfdm-068/">PREV</a></div>
   <div><a href="/posts/dfdm-070/">NEXT</a> →</div>

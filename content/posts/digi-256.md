@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/digi-256]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/dfe-113/">PREV</a></div>
   <div><a href="/posts/divas-105/">NEXT</a> →</div>

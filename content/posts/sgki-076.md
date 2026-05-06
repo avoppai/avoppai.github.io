@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/sgki-076]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/sgki-075/">PREV</a></div>
   <div><a href="/posts/sgki-077/">NEXT</a> →</div>

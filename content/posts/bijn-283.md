@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/bijn-283]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/bijn-282/">PREV</a></div>
   <div><a href="/posts/bijn-284/">NEXT</a> →</div>

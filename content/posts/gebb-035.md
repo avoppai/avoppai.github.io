@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/gebb-035]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/gebb-033/">PREV</a></div>
   <div><a href="/posts/gebb-036/">NEXT</a> →</div>

@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/mogk-005]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/mogk-004/">PREV</a></div>
   <div><a href="/posts/moil-001/">NEXT</a> →</div>

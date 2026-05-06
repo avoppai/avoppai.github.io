@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/jrze-286]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/jrze-285/">PREV</a></div>
   <div><a href="/posts/jrze-287/">NEXT</a> →</div>

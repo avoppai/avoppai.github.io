@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/mfyd-112]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/mfyd-111/">PREV</a></div>
   <div><a href="/posts/mfyd-114/">NEXT</a> →</div>

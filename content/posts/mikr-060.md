@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/mikr-060]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/mifd-724/">PREV</a></div>
   <div><a href="/posts/mikr-061/">NEXT</a> →</div>

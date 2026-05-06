@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/kaad-085]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/jyma-104/">PREV</a></div>
   <div><a href="/posts/kaad-84/">NEXT</a> →</div>

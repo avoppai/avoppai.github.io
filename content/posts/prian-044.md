@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/prian-044]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/pred-862/">PREV</a></div>
   <div><a href="/posts/prin-056/">NEXT</a> →</div>

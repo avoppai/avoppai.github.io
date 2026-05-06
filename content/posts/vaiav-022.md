@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/vaiav-022]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/vagu-293/">PREV</a></div>
   <div><a href="/posts/vaiav-023/">NEXT</a> →</div>

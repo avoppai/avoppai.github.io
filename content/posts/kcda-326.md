@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/kcda-326]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/kbr-034/">PREV</a></div>
   <div><a href="/posts/kcda-327/">NEXT</a> →</div>

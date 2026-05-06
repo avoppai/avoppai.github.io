@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/ngod-315]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/ngod-314/">PREV</a></div>
   <div><a href="/posts/ngod-316/">NEXT</a> →</div>

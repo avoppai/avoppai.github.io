@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/antw-002]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/ankb-042/">PREV</a></div>
   <div><a href="/posts/apak-321/">NEXT</a> →</div>

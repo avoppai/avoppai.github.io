@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/aiav-041]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/aiav-038/">PREV</a></div>
   <div><a href="/posts/aiav-042/">NEXT</a> →</div>

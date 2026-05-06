@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/apkh-193]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/apkh-192/">PREV</a></div>
   <div><a href="/posts/apns-397/">NEXT</a> →</div>

@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/tnik-025]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/tnik-024/">PREV</a></div>
   <div><a href="/posts/tnjs-003/">NEXT</a> →</div>

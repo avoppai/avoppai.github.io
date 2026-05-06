@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/fway-087]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/fway-086/">PREV</a></div>
   <div><a href="/posts/fway-088/">NEXT</a> →</div>

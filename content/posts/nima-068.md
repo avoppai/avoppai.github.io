@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/nima-068]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/nhms-002/">PREV</a></div>
   <div><a href="/posts/nima-069/">NEXT</a> →</div>

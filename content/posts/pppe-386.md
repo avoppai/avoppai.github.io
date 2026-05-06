@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/pppe-386]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/pppe-384/">PREV</a></div>
   <div><a href="/posts/pppe-389/">NEXT</a> →</div>

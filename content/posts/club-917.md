@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/club-917]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/club-916/">PREV</a></div>
   <div><a href="/posts/club-921/">NEXT</a> →</div>

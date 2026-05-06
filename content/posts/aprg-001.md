@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/aprg-001]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/appt-003/">PREV</a></div>
   <div><a href="/posts/aran-105/">NEXT</a> →</div>

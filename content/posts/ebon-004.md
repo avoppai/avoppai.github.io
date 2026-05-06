@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/ebon-004]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/dvrt-074/">PREV</a></div>
   <div><a href="/posts/ebon-005/">NEXT</a> →</div>

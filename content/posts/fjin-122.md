@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/fjin-122]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/fjin-121/">PREV</a></div>
   <div><a href="/posts/fjin-123/">NEXT</a> →</div>

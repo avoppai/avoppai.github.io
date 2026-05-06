@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/mngs-042]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/mngs-040/">PREV</a></div>
   <div><a href="/posts/mngs-043/">NEXT</a> →</div>

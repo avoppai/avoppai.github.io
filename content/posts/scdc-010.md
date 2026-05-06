@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/scdc-010]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/scdc-009/">PREV</a></div>
   <div><a href="/posts/scmf-002/">NEXT</a> →</div>

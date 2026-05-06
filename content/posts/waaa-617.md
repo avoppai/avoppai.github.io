@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/waaa-617]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/waaa-616/">PREV</a></div>
   <div><a href="/posts/waaa-618/">NEXT</a> →</div>

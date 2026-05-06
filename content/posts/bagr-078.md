@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/bagr-078]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/bacj-178/">PREV</a></div>
   <div><a href="/posts/bank-228/">NEXT</a> →</div>

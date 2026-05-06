@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/oftr-003]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/oftr-002/">PREV</a></div>
   <div><a href="/posts/oftr-004/">NEXT</a> →</div>

@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/iro-63]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/iqqq-49/">PREV</a></div>
   <div><a href="/posts/itsr-150/">NEXT</a> →</div>

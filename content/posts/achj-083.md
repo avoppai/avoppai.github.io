@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/achj-083]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/achj-082/">PREV</a></div>
   <div><a href="/posts/aczd-248/">NEXT</a> →</div>

@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/bobb-455]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/bobb-454/">PREV</a></div>
   <div><a href="/posts/bobb-456/">NEXT</a> →</div>

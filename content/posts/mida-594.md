@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/mida-594]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/mida-593/">PREV</a></div>
   <div><a href="/posts/mida-596/">NEXT</a> →</div>

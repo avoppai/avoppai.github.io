@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/atya-038]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/atya-036/">PREV</a></div>
   <div><a href="/posts/atya-039/">NEXT</a> →</div>

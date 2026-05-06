@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/doki-033]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/doki-032/">PREV</a></div>
   <div><a href="/posts/doks-658/">NEXT</a> →</div>

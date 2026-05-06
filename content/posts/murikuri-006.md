@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/murikuri-006]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/murikuri-005/">PREV</a></div>
   <div><a href="/posts/murikuri-009/">NEXT</a> →</div>

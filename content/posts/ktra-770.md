@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/ktra-770]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/ktra-769/">PREV</a></div>
   <div><a href="/posts/ktra-772/">NEXT</a> →</div>

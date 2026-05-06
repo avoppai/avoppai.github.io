@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/erdm-212]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/erdm-207/">PREV</a></div>
   <div><a href="/posts/erdm-215/">NEXT</a> →</div>

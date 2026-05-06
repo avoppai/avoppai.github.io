@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/hsoda-101]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/hsoda-100/">PREV</a></div>
   <div><a href="/posts/hsoda-102/">NEXT</a> →</div>

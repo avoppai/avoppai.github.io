@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/dvmm-375]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/dvmm-374/">PREV</a></div>
   <div><a href="/posts/dvmm-376/">NEXT</a> →</div>

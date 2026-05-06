@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/ankb-042]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/ankb-041/">PREV</a></div>
   <div><a href="/posts/antw-002/">NEXT</a> →</div>

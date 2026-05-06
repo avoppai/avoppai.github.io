@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/fone-169]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/fofi-001/">PREV</a></div>
   <div><a href="/posts/fpre-205/">NEXT</a> →</div>

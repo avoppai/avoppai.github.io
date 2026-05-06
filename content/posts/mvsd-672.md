@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/mvsd-672]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/mvsd-671/">PREV</a></div>
   <div><a href="/posts/mvsd-673/">NEXT</a> →</div>

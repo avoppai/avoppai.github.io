@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/mooc-014]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/mooc-013/">PREV</a></div>
   <div><a href="/posts/mooc-015/">NEXT</a> →</div>

@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/soan-123]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/soan-122/">PREV</a></div>
   <div><a href="/posts/soan-125/">NEXT</a> →</div>

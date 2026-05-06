@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/eyan-210]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/eyan-208/">PREV</a></div>
   <div><a href="/posts/eyan-212/">NEXT</a> →</div>

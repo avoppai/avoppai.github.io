@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/deab-006]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/ddk-238/">PREV</a></div>
   <div><a href="/posts/dfdm-067/">NEXT</a> →</div>

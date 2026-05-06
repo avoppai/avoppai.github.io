@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/ienf-434]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/ienf-433/">PREV</a></div>
   <div><a href="/posts/ienf-435/">NEXT</a> →</div>

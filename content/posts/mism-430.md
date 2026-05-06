@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/mism-430]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/mism-429/">PREV</a></div>
   <div><a href="/posts/mism-431/">NEXT</a> →</div>

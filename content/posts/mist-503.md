@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/mist-503]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/mism-440/">PREV</a></div>
   <div><a href="/posts/mist-504/">NEXT</a> →</div>

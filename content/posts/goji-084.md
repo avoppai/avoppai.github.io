@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/goji-084]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/gns-150/">PREV</a></div>
   <div><a href="/posts/goji-088/">NEXT</a> →</div>

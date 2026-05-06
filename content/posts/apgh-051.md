@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/apgh-051]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/apak-328/">PREV</a></div>
   <div><a href="/posts/apgh-052/">NEXT</a> →</div>

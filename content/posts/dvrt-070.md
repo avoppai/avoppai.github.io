@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/dvrt-070]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/dvrt-069/">PREV</a></div>
   <div><a href="/posts/dvrt-071/">NEXT</a> →</div>

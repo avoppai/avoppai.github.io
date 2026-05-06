@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/tnjs-004]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/tnjs-003/">PREV</a></div>
   <div><a href="/posts/totk-015/">NEXT</a> →</div>

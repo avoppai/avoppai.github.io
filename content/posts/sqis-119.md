@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/sqis-119]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/sqis-118/">PREV</a></div>
   <div><a href="/posts/sqte-645/">NEXT</a> →</div>

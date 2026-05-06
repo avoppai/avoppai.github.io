@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/ofku-242]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/ofje-619/">PREV</a></div>
   <div><a href="/posts/ofku-244/">NEXT</a> →</div>

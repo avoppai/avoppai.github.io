@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/kuse-040]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/kuse-039/">PREV</a></div>
   <div><a href="/posts/kuse-041/">NEXT</a> →</div>

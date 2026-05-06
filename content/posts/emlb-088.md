@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/emlb-088]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/emlb-086/">PREV</a></div>
   <div><a href="/posts/enki-091/">NEXT</a> →</div>

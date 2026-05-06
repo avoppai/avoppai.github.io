@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/san-425z]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/san-424z/">PREV</a></div>
   <div><a href="/posts/san-428/">NEXT</a> →</div>

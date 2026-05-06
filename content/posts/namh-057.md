@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/namh-057]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/namh-056/">PREV</a></div>
   <div><a href="/posts/namh-058/">NEXT</a> →</div>

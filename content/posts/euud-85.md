@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/euud-85]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/euud-83/">PREV</a></div>
   <div><a href="/posts/euud-86/">NEXT</a> →</div>

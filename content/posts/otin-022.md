@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/otin-022]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/oosg-001/">PREV</a></div>
   <div><a href="/posts/otin-024/">NEXT</a> →</div>

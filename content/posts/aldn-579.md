@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/aldn-579]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/aldn-578/">PREV</a></div>
   <div><a href="/posts/aldn-580/">NEXT</a> →</div>

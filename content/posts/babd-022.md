@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/babd-022]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/bab-190/">PREV</a></div>
   <div><a href="/posts/babd-024/">NEXT</a> →</div>

@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/madv-619]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/madv-618/">PREV</a></div>
   <div><a href="/posts/madv-620/">NEXT</a> →</div>

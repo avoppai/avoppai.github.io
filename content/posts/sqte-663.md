@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/sqte-663]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/sqte-662/">PREV</a></div>
   <div><a href="/posts/sqte-664/">NEXT</a> →</div>

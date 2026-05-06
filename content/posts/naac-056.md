@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/naac-056]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/naac-055/">PREV</a></div>
   <div><a href="/posts/naac-057/">NEXT</a> →</div>

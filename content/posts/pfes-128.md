@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/pfes-128]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/pfes-127/">PREV</a></div>
   <div><a href="/posts/pfes-129/">NEXT</a> →</div>

@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/ftav-016]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/fstu-027/">PREV</a></div>
   <div><a href="/posts/ftht-331/">NEXT</a> →</div>

@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/vema-254]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/vec-776/">PREV</a></div>
   <div><a href="/posts/vema-255/">NEXT</a> →</div>

@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/kymi-051]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/kwbd-436/">PREV</a></div>
   <div><a href="/posts/kymi-052/">NEXT</a> →</div>

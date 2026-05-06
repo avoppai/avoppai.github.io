@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/nask-370]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/nask-346/">PREV</a></div>
   <div><a href="/posts/nask-376/">NEXT</a> →</div>

@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/mibb-076]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/mibb-075/">PREV</a></div>
   <div><a href="/posts/mibb-077/">NEXT</a> →</div>

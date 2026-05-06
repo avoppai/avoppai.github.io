@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/venx-363]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/venx-362/">PREV</a></div>
   <div><a href="/posts/venx-364/">NEXT</a> →</div>

@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/prtd-035]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/prst-026/">PREV</a></div>
   <div><a href="/posts/prwf-010/">NEXT</a> →</div>

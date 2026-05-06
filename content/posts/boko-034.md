@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/boko-034]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/bokd-314/">PREV</a></div>
   <div><a href="/posts/boko-035/">NEXT</a> →</div>

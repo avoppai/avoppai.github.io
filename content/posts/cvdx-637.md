@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/cvdx-637]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/cvdx-635/">PREV</a></div>
   <div><a href="/posts/cvdx-640/">NEXT</a> →</div>

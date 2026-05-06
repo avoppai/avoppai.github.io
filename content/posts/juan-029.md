@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/juan-029]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/juan-028/">PREV</a></div>
   <div><a href="/posts/jube-038/">NEXT</a> →</div>

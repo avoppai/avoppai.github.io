@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/sykh-183]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/sykh-182/">PREV</a></div>
   <div><a href="/posts/sykh-184/">NEXT</a> →</div>

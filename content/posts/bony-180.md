@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/bony-180]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/bony-177/">PREV</a></div>
   <div><a href="/posts/bony-182/">NEXT</a> →</div>

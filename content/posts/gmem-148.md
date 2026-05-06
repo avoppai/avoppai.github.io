@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/gmem-148]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/gmem-147/">PREV</a></div>
   <div><a href="/posts/gmem-149/">NEXT</a> →</div>

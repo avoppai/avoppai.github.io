@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/mtgd-001]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/msaj-020/">PREV</a></div>
   <div><a href="/posts/mucd-348/">NEXT</a> →</div>

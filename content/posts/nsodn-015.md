@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/nsodn-015]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/nsodn-014/">PREV</a></div>
   <div><a href="/posts/nsodn-016/">NEXT</a> →</div>

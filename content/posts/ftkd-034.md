@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/ftkd-034]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/ftkd-033/">PREV</a></div>
   <div><a href="/posts/ftkd-035/">NEXT</a> →</div>

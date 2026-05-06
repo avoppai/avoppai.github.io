@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/urkk-123]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/urkk-122/">PREV</a></div>
   <div><a href="/posts/urmt-001/">NEXT</a> →</div>

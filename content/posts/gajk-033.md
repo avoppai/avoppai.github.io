@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/gajk-033]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/gajk-032/">PREV</a></div>
   <div><a href="/posts/gara-018/">NEXT</a> →</div>

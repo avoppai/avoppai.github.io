@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/shind-109]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/shind-108/">PREV</a></div>
   <div><a href="/posts/shind-110/">NEXT</a> →</div>

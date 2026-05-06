@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/mkmp-717]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/mkmp-715/">PREV</a></div>
   <div><a href="/posts/mkmp-718/">NEXT</a> →</div>

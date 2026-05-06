@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/hows-018]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/hows-016/">PREV</a></div>
   <div><a href="/posts/hpet-014/">NEXT</a> →</div>

@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/homa-161]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/hoks-220/">PREV</a></div>
   <div><a href="/posts/homa-162/">NEXT</a> →</div>

@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/vio-72]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/veo-085/">PREV</a></div>
   <div><a href="/posts/vio-73/">NEXT</a> →</div>

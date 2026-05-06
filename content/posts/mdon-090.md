@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/mdon-090]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/mdon-089/">PREV</a></div>
   <div><a href="/posts/mdvij-026/">NEXT</a> →</div>

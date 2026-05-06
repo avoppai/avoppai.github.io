@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/enki-092]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/enki-091/">PREV</a></div>
   <div><a href="/posts/enki-093/">NEXT</a> →</div>

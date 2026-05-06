@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/fthtd-187]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/fthtd-185/">PREV</a></div>
   <div><a href="/posts/fthtd-189/">NEXT</a> →</div>

@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/nacx-166]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/nacx-164/">PREV</a></div>
   <div><a href="/posts/nacx-167/">NEXT</a> →</div>

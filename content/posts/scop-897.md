@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/scop-897]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/scop-896/">PREV</a></div>
   <div><a href="/posts/scop-900/">NEXT</a> →</div>

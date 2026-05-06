@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/myba-092]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/myba-091/">PREV</a></div>
   <div><a href="/posts/myba-093/">NEXT</a> →</div>

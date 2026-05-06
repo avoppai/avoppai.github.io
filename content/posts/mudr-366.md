@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/mudr-366]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/mudr-365/">PREV</a></div>
   <div><a href="/posts/mudr-368/">NEXT</a> →</div>

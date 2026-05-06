@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/lulu-436]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/lulu-435/">PREV</a></div>
   <div><a href="/posts/madb-003/">NEXT</a> →</div>

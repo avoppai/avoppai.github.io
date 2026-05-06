@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/cherd-102]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/cherd-101/">PREV</a></div>
   <div><a href="/posts/cherd-103/">NEXT</a> →</div>

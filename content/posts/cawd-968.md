@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/cawd-968]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/cawd-967/">PREV</a></div>
   <div><a href="/posts/cawd-969/">NEXT</a> →</div>

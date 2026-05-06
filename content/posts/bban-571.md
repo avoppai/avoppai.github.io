@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/bban-571]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/bban-570/">PREV</a></div>
   <div><a href="/posts/bban-572/">NEXT</a> →</div>

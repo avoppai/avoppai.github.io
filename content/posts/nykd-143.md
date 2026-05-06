@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/nykd-143]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/nxgs-019/">PREV</a></div>
   <div><a href="/posts/oae-301/">NEXT</a> →</div>

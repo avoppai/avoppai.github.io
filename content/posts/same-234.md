@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/same-234]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/same-232/">PREV</a></div>
   <div><a href="/posts/san-421/">NEXT</a> →</div>

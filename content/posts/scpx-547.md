@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/scpx-547]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/scpx-545/">PREV</a></div>
   <div><a href="/posts/scpx-548/">NEXT</a> →</div>

@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/pkys-020]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/pkys-019/">PREV</a></div>
   <div><a href="/posts/pppe-372/">NEXT</a> →</div>

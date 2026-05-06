@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/btha-110]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/bsk-014/">PREV</a></div>
   <div><a href="/posts/btha-111/">NEXT</a> →</div>

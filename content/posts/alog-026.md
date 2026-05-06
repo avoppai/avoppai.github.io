@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/alog-026]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/alog-025/">PREV</a></div>
   <div><a href="/posts/alog-028/">NEXT</a> →</div>

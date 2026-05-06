@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/pais-081]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/otin-024/">PREV</a></div>
   <div><a href="/posts/pais-082/">NEXT</a> →</div>

@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/luke-048]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/lucy-026/">PREV</a></div>
   <div><a href="/posts/lulu-415/">NEXT</a> →</div>

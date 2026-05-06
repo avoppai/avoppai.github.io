@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/pako-103]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/pako-102/">PREV</a></div>
   <div><a href="/posts/pbd-512/">NEXT</a> →</div>

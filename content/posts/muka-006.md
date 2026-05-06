@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/muka-006]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/muka-005/">PREV</a></div>
   <div><a href="/posts/mukc-111/">NEXT</a> →</div>

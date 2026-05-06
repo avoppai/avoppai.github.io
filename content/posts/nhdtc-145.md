@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/nhdtc-145]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/nhdtc-144/">PREV</a></div>
   <div><a href="/posts/nhdtc-146/">NEXT</a> →</div>

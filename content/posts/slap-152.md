@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/slap-152]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/skmj-744/">PREV</a></div>
   <div><a href="/posts/sln-014/">NEXT</a> →</div>

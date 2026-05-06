@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/miqd-012]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/mimk-278/">PREV</a></div>
   <div><a href="/posts/mird-268/">NEXT</a> →</div>

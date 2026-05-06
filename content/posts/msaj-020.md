@@ -19,8 +19,6 @@ url: [ https://j91.asia/v/msaj-020]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/mrss-184/">PREV</a></div>
   <div><a href="/posts/mtgd-001/">NEXT</a> →</div>
